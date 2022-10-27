@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SimonFD
+- 👀 I’m interested in old computers and getting them to work with modern kit
+- 🌱 I’m currently learning to programme microcontrollers (Raspi Pic, arduino, ESP32)
